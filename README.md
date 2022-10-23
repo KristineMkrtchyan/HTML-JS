@@ -1,1 +1,1 @@
-# HTML-JS
+# JS (group 2)
